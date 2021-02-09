@@ -12,5 +12,4 @@ There were two items I debated over:
   While the original HTML contained code to change the "seo" of "Horiseon" to be a light grey, this was problematic for a few reasons: a) the colors being used lacked sufficient contrast to comply with visual impairment guidelines as set forth in the ADA. b) the code in the markup would not make for clear reading of the word being formed by assistive technologies. There are a number of solutions to this problem - including making the text a graphic item accompanied by an alt tag, and/or increasing the contrast of the colors used.
 2)Streamlining the css code establishing the styling of the Search Engine Optimization, Online Reputation Management, and Social Media Marketing sections. 
 
-d
 (assets/images/Horiseon_screenshot.jpg)
