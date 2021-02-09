@@ -3,4 +3,4 @@ Folder for Submission of Homework
 
 
 
-(.assets/images/Horiseon_screenshot.jpg)
+(assets/images/Horiseon_screenshot.jpg)
