@@ -16,4 +16,4 @@ There were two items I debated over:
 2)Streamlining the css code establishing the styling of the Search Engine Optimization, Online Reputation Management, and Social Media Marketing sections. 
   Attempts were made to reduce the number of lines of code used for redundant style elements by definining the "content" tag with those items. There were     significant malfunctions that prevented that from being accomplished.
 
-(assets/images/Horiseon_screenshot.jpg)
+[Screenshot of Page](assets/images/Horiseon_screenshot.jpg)
